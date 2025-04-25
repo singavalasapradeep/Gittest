@@ -1,0 +1,1 @@
+this is pradeep iam new employee for aws devops engineer and along with i have worked on multiple number of tools like terraform ansible docker kuberentes and along with aws services also i have worked using aws lot of employees are working together and maintian and this is for devops engineer
